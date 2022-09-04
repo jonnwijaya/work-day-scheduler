@@ -16,7 +16,7 @@
 
 Work Day Scheduler webpage
 
-Link: https://jonnwijaya.github.io/horiseon-webpage-refactoring/
+Link: https://jonnwijaya.github.io/work-day-scheduler/
 
 ![Screenshot of the site](Assets/images/demo.gif)
 
